@@ -19,26 +19,11 @@ Hello, my name Ilja Tsapkov and I am a student at [Tallinn Polytechnic School](h
  <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/>
 </div>
 <-->
-
-<br/>
-
-- 🙌 I'm currently open to: **Myself**
-
-<br/><br/>
-
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
-</div>
 <br/>
 
 - 🔭 I’m currently working on: **Game, website**
 
 - 🌱 I’m currently learning: **Everything I can**
-
-
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
-</div>
 
 - 📫 To reach me: ilja.tsapkov@tptlive.ee
     
