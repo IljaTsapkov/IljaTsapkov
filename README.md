@@ -18,7 +18,5 @@ Hello, my name Ilja Tsapkov and I am a student at [Tallinn Polytechnic School](h
 
 - 📫 To reach me: ilja.tsapkov@tptlive.ee
 
-[![Readme Card](https://github-readme-stats.vercel.app/arduino_slider_mk-3_Fed&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Ilja's Stats](https://github-readme-stats.vercel.app/api?username=IljaTsapkov&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IljaTsapkov&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
