@@ -47,12 +47,3 @@
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
-
-- 😄 Pronouns: **
-HE/SHE	HIM/HER	HIS/HER	HIS/HERS	HIMSELF/HERSELF
-zie	zim	zir	zis	zieself
-sie	sie	hir	hirs	hirself
-ey	em	eir	eirs	eirself
-ve	ver	vis	vers	verself
-tey	ter	tem	ters	terself
-e	em	eir	eirs	emself**
