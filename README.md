@@ -11,7 +11,7 @@ Hello, my name Ilja Tsapkov and I am a student at [Tallinn Polytechnic School](h
 </div>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ilja's Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <br/>
 
