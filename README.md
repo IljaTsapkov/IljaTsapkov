@@ -11,8 +11,8 @@ Hello, my name Ilja Tsapkov and I am a student at [Tallinn Polytechnic School](h
 </div>
 <br/>
 
-![Ilja's Stats](https://github-readme-stats.vercel.app/api?username=IljaTsapkov&show_icons=true&theme=radical)
-
+![Ilja's Stats](https://github-readme-stats.vercel.app/api?username=IljaTsapkov&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <br/>
 
 - 🔭 I’m currently working on: **Game, website**
