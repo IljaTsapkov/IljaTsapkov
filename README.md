@@ -3,7 +3,7 @@
 </div>
 
 # Welcome To My GitHub Profile, I'm Ilja Tsapkov!
-Hello, my name Ilja Tsapkov and I am a student at [Tallinn Polytechnic School](https://www.tptlive.ee/) studying software development.
+Hello, my name Ilja Tsapkov and I am a student at [Tallinn Polytechnic School](https://www.tptlive.ee/) studying software development. My technology stack involves Java, C#,PHP, MySQL, javascript, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in gaming.
 
 <br/>
 <div align="center">
