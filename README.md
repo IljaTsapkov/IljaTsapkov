@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif" alt="GitHub Logo" width="200" height="200" />
 </div>
 
 # Welcome To My GitHub Profile, I'm Ilja Tsapkov!
