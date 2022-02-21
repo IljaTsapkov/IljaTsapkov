@@ -31,7 +31,7 @@ Hello, my name Ilja Tsapkov and I am a student at [Tallinn Polytechnic School](h
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Work**
+- 🔭 I’m currently working on: **Game, website**
 
 - 🌱 I’m currently learning: **Everything I can**
 
