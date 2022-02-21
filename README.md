@@ -3,6 +3,7 @@
 </div>
 
 # Welcome To My GitHub Profile, I'm Ilja Tsapkov!
+Hello, my name Ilja Tsapkov and I am a student at [Tallinn Polytechnic School](https://www.tptlive.ee/) studying software development.
 
 <br/>
 <div align="center">
@@ -39,10 +40,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
-- 💬 Don't ask me.
-
-
-- 📫 Don't reach me please
+- 📫 Don't reach me please.
     
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
