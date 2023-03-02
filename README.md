@@ -18,6 +18,7 @@ Hello, my name Ilja Tsapkov and I am a student at [Tallinn Polytechnic School](h
 ![Scss](https://img.shields.io/badge/Sass-000?logo=sass)
 ![jQuery](https://img.shields.io/badge/jQuery-000?logo=jquery)
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![Node.js](https://img.shields.io/badge/Unity-000?logo=unity)
 
 ![Ilja's Stats](https://github-readme-stats.vercel.app/api?username=IljaTsapkov&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IljaTsapkov&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
