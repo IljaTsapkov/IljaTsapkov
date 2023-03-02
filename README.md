@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" alt="GitHub Logo" width="300" height="200" />
+<img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" alt="GitHub Logo" width="500" height="300" />
 </div>
 
 # Welcome To My GitHub Profile, I'm Ilja Tsapkov!
