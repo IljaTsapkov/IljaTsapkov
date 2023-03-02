@@ -15,7 +15,7 @@ Hello, my name Ilja Tsapkov and I am a student at [Tallinn Polytechnic School](h
 
 ![HTML5](https://img.shields.io/badge/HTML-000?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?logo=css3)
-![Ss](https://img.shields.io/badge/Sass-000?logo=sass)
+![Scss](https://img.shields.io/badge/Sass-000?logo=scss)
 ![jQuery](https://img.shields.io/badge/jQuery-000?logo=jquery)
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
 
